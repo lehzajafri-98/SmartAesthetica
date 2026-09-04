@@ -1,0 +1,10 @@
+[Auth] Database initialized.
+[Core] 2D Segmentation U-Net initialized with random weights (File not found: ./data/unet_segmentation_weights.pth)
+[Enhancement] AestheticEnhancementNet initialized on cpu
+[Enhancement] Parameters: 841,508
+[Enhancement] Neural enhancement model loaded successfully onto cpu
+[3D Engine] Initializing. Cloud capabilities loaded: False
+[3D Engine] WARNING: PyTorch3D / CUDA not detected.
+[3D Engine] Simulator is running in Local/Mock mode. Deployment to Cloud GPU required for actual 3D fitting.
+[3D Engine] Cloud3DSimulator loaded.
+INFO:     127.0.0.1:63863 - "GET / HTTP/1.1" 200 OK

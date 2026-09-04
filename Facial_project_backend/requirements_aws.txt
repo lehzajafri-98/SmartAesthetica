@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+python-multipart
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+numpy
+opencv-python
+pillow
+scipy
+chumpy
+--extra-index-url https://blender.chat/user_uploads
+# PyTorch3D must often be installed from source on Linux, but using pre-built wheels if available:
+# iopath
+fvcore
+pytorch3d -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py310_cu118_pyt210/download.html
+# DECA dependencies
+scikit-image
+yacs
+face_alignment

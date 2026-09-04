@@ -1,0 +1,10 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\Administrator\\Downloads\\smart-asthetica-main\\smart-asthetica-main\\Facial_project_backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [4732] using StatReload
+W0000 00:00:1780413784.023360   11484 face_landmarker_graph.cc:180] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1780413784.073317   18016 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1780413784.112989   11536 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+INFO:     Started server process [6860]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
